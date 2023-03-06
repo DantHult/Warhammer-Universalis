@@ -1,0 +1,20 @@
+﻿l_english:
+ #----------------------------------
+ # Setup
+ #----------------------------------
+ dummy.1.t: ""
+ dummy.1.d: ""
+ dummy.1.a: ""
+
+ #----------------------------------
+ # Race
+ #----------------------------------
+ warhammer_RACE_BUFFS: ""
+ 
+ warhammer_races.1.t: "Human"
+ warhammer_races.1.d: ""
+ warhammer_races.1.a: "Understood!"
+
+ warhammer_races.2.t: "Vampire Counts"
+ warhammer_races.2.d: ""
+ warhammer_races.2.a: "Understood!"

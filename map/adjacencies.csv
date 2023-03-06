@@ -1,0 +1,11 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+79;84;sea;1308;-1;-1;-1;-1;marienburg
+79;83;sea;1308;-1;-1;-1;-1;marienburg
+160;131;lake;1890;-1;-1;-1;-1;talabecrivercrossing
+1;2;lake;1890;-1;-1;-1;-1;altdorf
+2;3;lake;1890;-1;-1;-1;-1;altdorf
+1;3;lake;1890;-1;-1;-1;-1;altdorf
+70;168;lake;1890;-1;-1;-1;-1;stircrossing
+68;161;lake;1890;-1;-1;-1;-1;stircrossing
+52;78;lake;1890;-1;-1;-1;-1;avercrossing
+-1;-1;-1;-1;-1;-1;-1;-1;-1

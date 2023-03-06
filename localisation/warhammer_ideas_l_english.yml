@@ -1,0 +1,78 @@
+﻿l_english:
+
+imperial_ideas:0 "Imperial Ideas"
+ imperial_ideas_start:0 "Imperial Traditions"
+ imperial_ideas_bonus:0 "Imperial Ambition"
+ imperial_faith:0 "Faith"
+ imperial_faith_desc:0 "Faith"
+ imperial_steel:0 "Steel"
+ imperial_steel_desc:0 "Steel"
+ imperial_gunpowder:0 "Gunpowder"
+ imperial_gunpowder_desc:0 "Gunpowder"
+ imperial_lifeblood_of_the_empire:0 "Lifeblood of the Empire"
+ imperial_lifeblood_of_the_empire_desc:0 "The rivers of the Empire connect the Empire."
+ imperial_princely_dealings:0 "Princely Dealings"
+ imperial_princely_dealings_desc:0 "Constant politicing amongst themselves have made the princes of the Empire masters of the diplomancy"
+ imperial_witch_hunters:0 "Witch Hunters"
+ imperial_witch_hunters_desc:0 "Witch Hunter"
+ imperial_state_regiments:0 "State Regiments"
+ imperial_state_regiments_desc:0 "State Regiments"
+ 
+bretonnian_knights:0 "Bretonnian Knights"
+bretonnian_knights_desc:0 "I give my body, heart and soul, to the Lady whom I seek. No plea for help shall find me wanting. No obstacle will stand before me. No evil will taint the lands bequeathed unto me. When the clarion call is sounded, I will ride out and fight in the name of Liege and Lady. That which is sacrament, I shall preserve. That which is sublime, I will protect. That which threatens, I will destroy, for my holy wrath will know no bounds. Honour is all. Chivalry is all. Rejoice, for we, the Knights of Bretonnia... will be your shield. \n\n—The combined vows of the Knights of Bretonnia"
+
+A15_ideas:0 "Couronnean Ideas"
+ A15_ideas_start:0 "Couronnean Traditions"
+ A15_ideas_bonus:0 "Couronnean Ambition"
+
+A16_ideas:0 "L’Anguillen Ideas"
+ A16_ideas_start:0 "L’Anguillen Traditions"
+ A16_ideas_bonus:0 "L’Anguillen Ambition"
+ 
+A17_ideas:0 "Lyonen Ideas"
+ A17_ideas_start:0 "Lyonen Traditions"
+ A17_ideas_bonus:0 "Lyonen Ambition"
+ 
+A18_ideas:0 "Artoin Ideas"
+ A18_ideas_start:0 "Artoin Traditions"
+ A18_ideas_bonus:0 "Artoin Ambition"
+ 
+A19_ideas:0 "Gisoren Ideas"
+ A19_ideas_start:0 "Gisoren Traditions"
+ A19_ideas_bonus:0 "Gisoren Ambition"
+ 
+A20_ideas:0 "Mousillonian Ideas"
+ A20_ideas_start:0 "Mousillonian Traditions"
+ A20_ideas_bonus:0 "Mousillonian Ambition"
+ 
+A21_ideas:0 "Bordelen Ideas"
+ A21_ideas_start:0 "Bordelen Traditions"
+ A21_ideas_bonus:0 "Bordelen Ambition"
+
+A22_ideas:0 "Bastonnian Ideas"
+ A22_ideas_start:0 "Bastonnian Traditions"
+ A22_ideas_bonus:0 "Bastonnian Ambition"
+ 
+A23_ideas:0 "Monfortian Ideas"
+ A23_ideas_start:0 "Monfortian Traditions"
+ A23_ideas_bonus:0 "Monfortian Ambition"
+ 
+A24_ideas:0 "Acquitanian Ideas"
+ A24_ideas_start:0 "Acquitanian Traditions"
+ A24_ideas_bonus:0 "Acquitanian Ambition"
+ 
+A25_ideas:0 "Brionnian Ideas" 
+ A25_ideas_start:0 "Brionnian Traditions"
+ A25_ideas_bonus:0 "Brionnian Ambition"
+ 
+A26_ideas:0 "Queneller Ideas"
+ A26_ideas_start:0 "Queneller Traditions"
+ A26_ideas_bonus:0 "Queneller Ambition"
+ 
+A27_ideas:0 "Parravonese Ideas"
+ A27_ideas_start:0 "Parravonese Traditions"
+ A27_ideas_bonus:0 "Parravonese Ambition"
+ 
+A28_ideas:0 "Carcassonnian Ideas"
+ A28_ideas_start:0 "Carcassonnian Traditions"
+ A28_ideas_bonus:0 "Carcassonnian Ambition"

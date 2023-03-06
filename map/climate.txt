@@ -1,0 +1,50 @@
+#Example: Large parts of Africa and south east Asia
+tropical = {
+	
+}
+
+arid = {
+	
+}
+
+arctic = {
+	
+	
+}
+
+#Example: Most of Europe north of med.
+mild_winter = {
+
+	
+}
+
+#Example: Inland Europe & Scandinavia
+normal_winter = {
+	
+}
+
+#Example: Russia & Lappland
+severe_winter = {
+	
+}
+
+impassable = {
+117 118 206 207 258 386 451 470 480 481 502 510 551 565 921 972 980 1028 1056 1074 1095 1100 1170 1218 1585 1776 
+1781 1782 1784 1786 2351 471 1787 2194 1168 2880 4086 4865
+1779 1793 1795 1797 1799 1802 
+1803 1805 1806 1808 1811 1814 1964 2002 2019 2021 2025 2099 2101 2129 2134 2140 2198 
+2391 2357 2370 2390 2393 2427 2475 2490 2506 2677 2730 2773 2775 2778 2779 2780 2873 2851 2905 2922 2936 2952 4030 
+4080 4088 4094 4154 4160 4161 4328 4520 
+4684 4814 4818 4931 4932 4934 4933 4942 4943 4944 4945 4946 4947 4948 4949 4950
+
+}
+
+mild_monsoon = {
+	
+}
+
+normal_monsoon = {
+
+}
+
+equator_y_on_province_image = 1
