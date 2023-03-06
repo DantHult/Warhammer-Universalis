@@ -1,0 +1,110 @@
+country_decisions = {
+
+	tilean_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_tilea_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+		
+			OR = {
+				ai = no
+				NOT = { exists = A58 }
+			}
+			OR = {
+				culture_group = tilean_group
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					region = tilea_region
+					root = {
+						NOT = {
+							num_of_owned_provinces_with = {
+								value = 35
+								region = tilea_region
+								is_core = root
+							}
+						}
+						owns_core_province = 590
+						owns_core_province = 603
+						owns_core_province = 608
+						owns_core_province = 553
+					}
+				}
+				owns_core_province = 590	# Remas
+			owns_core_province = 603	# Verezzo
+			owns_core_province = 608	# Luccini
+			owns_core_province = 553	# Tobaro
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no			
+			NOT = { exists = A58 }
+			owns_core_province = 590	# Remas
+			owns_core_province = 603	# Verezzo
+			owns_core_province = 608	# Luccini
+			owns_core_province = 553	# Tobaro
+			590 = { 					# Remas
+				is_state = yes
+			}
+			num_of_owned_provinces_with = {
+				value = 35
+				region = tilea_region
+				is_core = root
+			}
+		}
+		effect = {
+			change_tag = A58
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			tilea_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = A58
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			if = {
+				limit = {
+					has_custom_ideas = no
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			set_country_flag = formed_tilea_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}
